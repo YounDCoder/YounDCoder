@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me => DISCORD : __yxn#1337__
-- 🌍 Starting a new Discord,Js project
+- 🌍 Starting a new Discord.Js project
 
 <!---
 YounDCoder/YounDCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
